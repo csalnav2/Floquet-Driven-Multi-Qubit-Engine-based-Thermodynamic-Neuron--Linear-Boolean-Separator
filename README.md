@@ -1,4 +1,4 @@
-_# Quantum Thermodynamic Neuron on a 4‑Qubit Transmon Lattice
+Quantum Thermodynamic Neuron on a 4‑Qubit Transmon Lattice
 
 This repo contains a Python simulation of a **4‑qubit transmon‑style lattice**
 evolving under a noisy GKSL master equation with mean‑field couplings,
@@ -27,4 +27,5 @@ pip install -r requirements.txt
 How to ctivate a Single Mode(1 Qubit) : python quantum_unified_revised_v23.py --mode single --bath_enable --q_tmax 10.0
 
 How to activate a Lattice Mode ( 4 interacting Qubits) : python quantum_unified_revised_v23.py --mode lattice --bath_enable --q_tmax 12.0 --fps 18
+
 
