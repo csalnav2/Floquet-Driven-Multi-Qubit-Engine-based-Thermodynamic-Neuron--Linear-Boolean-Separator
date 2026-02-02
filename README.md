@@ -78,36 +78,40 @@ cd quantum-thermodynamic-neuron
 ## 📚 References
 
 **Thermodynamic Computing & Neurons**
-* Lipka‑Bartosik, Perarnau‑Llobet, Brunner. *Thermodynamic computing via autonomous quantum thermal machines*. **Science Advances** 10(36):eadm8792 (2024).  
-    [DOI: 10.1126/sciadv.adm8792](https://doi.org/10.1126/sciadv.adm8792)
+* Lipka-Bartosik, Perarnau-Llobet, Brunner. *Thermodynamic computing via autonomous quantum thermal machines*. **Science Advances** 10(36):eadm8792 (2024).  
+  [DOI: 10.1126/sciadv.adm8792](https://doi.org/10.1126/sciadv.adm8792)
 
 **Thermodynamic Length & Metrics**
-* S. Deffner. *Thermodynamic length for far‑from‑equilibrium quantum systems*. **Phys. Rev. E** 87, 022143 (2013).  
-    [DOI: 10.1103/PhysRevE.87.022143](https://doi.org/10.1103/PhysRevE.87.022143)
-* M. Scandi, M. Perarnau‑Llobet. *Thermodynamic length in open quantum systems*. **Quantum** 3, 197 (2019).  
-    [DOI: 10.22331/q-2019-10-24-197](https://doi.org/10.22331/q-2019-10-24-197)
+* S. Deffner. *Thermodynamic length for far-from-equilibrium quantum systems*. **Phys. Rev. E** 87, 022143 (2013).  
+  [DOI: 10.1103/PhysRevE.87.022143](https://doi.org/10.1103/PhysRevE.87.022143)
+* M. Scandi, M. Perarnau-Llobet. *Thermodynamic length in open quantum systems*. **Quantum** 3, 197 (2019).  
+  [DOI: 10.22331/q-2019-10-24-197](https://doi.org/10.22331/q-2019-10-24-197)
 * C. Cafaro et al. *Bures and Sjöqvist metrics over thermal state manifolds for spin qubits and superconducting flux qubits*. **arXiv:2303.01680** (2023).  
-    [arXiv:2303.01680](https://arxiv.org/abs/2303.01680)
+  [arXiv:2303.01680](https://arxiv.org/abs/2303.01680)
 * P. M. Alsing et al. *Comparing metrics for mixed quantum states: Sjöqvist and Bures*. **Phys. Rev. A** 107, 052411 (2023).  
-    [DOI: 10.1103/PhysRevA.107.052411](https://doi.org/10.1103/PhysRevA.107.052411)
+  [DOI: 10.1103/PhysRevA.107.052411](https://doi.org/10.1103/PhysRevA.107.052411)
 
 **Transmon Qubits & Hardware**
-* J. Koch et al. *Charge‑insensitive qubit design derived from the Cooper pair box*. **Phys. Rev. A** 76, 042319 (2007).  
-    [DOI: 10.1103/PhysRevA.76.042319](https://doi.org/10.1103/PhysRevA.76.042319)
+* J. Koch et al. *Charge-insensitive qubit design derived from the Cooper pair box*. **Phys. Rev. A** 76, 042319 (2007).  
+  [DOI: 10.1103/PhysRevA.76.042319](https://doi.org/10.1103/PhysRevA.76.042319)
 * M. Kjaergaard et al. *Superconducting qubits: Current state of play*. **Annu. Rev. Condens. Matter Phys.** 11, 369–395 (2020).  
-    [DOI: 10.1146/annurev-conmatphys-031119-050605](https://doi.org/10.1146/annurev-conmatphys-031119-050605)
+  [DOI: 10.1146/annurev-conmatphys-031119-050605](https://doi.org/10.1146/annurev-conmatphys-031119-050605)
 * O. Kyriienko et al. *Floquet Quantum Simulation with Superconducting Qubits*. **Phys. Rev. Applied** 9, 064029 (2018).  
-    [DOI: 10.1103/PhysRevApplied.9.064029](https://doi.org/10.1103/PhysRevApplied.9.064029)
-* L. Xiang et al. *Long‑lived topological time‑crystalline order on a quantum processor*. **Nat. Commun.** 15, 5570 (2024).  
-    [DOI: 10.1038/s41467-024-49923-z](https://doi.org/10.1038/s41467-024-49923-z)
+  [DOI: 10.1103/PhysRevApplied.9.064029](https://doi.org/10.1103/PhysRevApplied.9.064029)
+* L. Xiang et al. *Long-lived topological time-crystalline order on a quantum processor*. **Nat. Commun.** 15, 5570 (2024).  
+  [DOI: 10.1038/s41467-024-49923-z](https://doi.org/10.1038/s41467-024-49923-z)
 
 **Open Systems & Software**
 * D. Manzano. *A short introduction to the Lindblad master equation*. **AIP Adv.** 10, 025106 (2020).  
-    [DOI: 10.1063/1.5115323](https://doi.org/10.1063/1.5115323)
+  [DOI: 10.1063/1.5115323](https://doi.org/10.1063/1.5115323)
 * **QuTiP:** J. R. Johansson et al. *QuTiP: An open-source Python framework for the dynamics of open quantum systems*. **Comput. Phys. Commun.** 183, 1760 (2012).  
+  [DOI: 10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
+* **QuTiP 2:** J. R. Johansson et al. *QuTiP 2: A Python framework for the dynamics of open quantum systems*. **Comput. Phys. Commun.** 184, 1234 (2013).  
+  [DOI: 10.1016/j.cpc.2012.11.019](https://doi.org/10.1016/j.cpc.2012.11.019)
     [DOI: 10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
 * **QuTiP 2:** J. R. Johansson et al. *QuTiP 2: A Python framework for the dynamics of open quantum systems*. **Comput. Phys. Commun.** 184, 1234 (2013).  
     [DOI: 10.1016/j.cpc.2012.11.019](https://doi.org/10.1016/j.cpc.2012.11.019)
+
 
 
 
