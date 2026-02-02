@@ -4,7 +4,7 @@
 
 This repository contains a Python simulation of a **4-qubit Transmon-style lattice** evolving under a noisy GKSL master equation. The project explores the intersection of quantum thermodynamics and machine learning, implementing a **Thermodynamic Neuron** model inspired by recent breakthroughs in autonomous quantum thermal machines.
 
-> **🔒 Access Note:** The full source code (`quantum_unified_revised_v136.py` / `v23`) is available upon request for collaboration purposes.
+> **🔒 Access Note:** The full source code is available upon request for collaboration purposes.
 > **Contact:** [csalnav2@gmail.com](mailto:csalnav2@gmail.com)
 
 ---
@@ -140,5 +140,6 @@ python quantum_unified_revised_v23.py --mode lattice --bath_enable --q_tmax 12.0
 * **QuTiP:** J. R. Johansson et al. QuTiP: An open-source Python framework for the dynamics of open quantum systems. *Comput. Phys. Commun.* 183, 1760 (2012). DOI: [10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
 
 ```
+
 
 
