@@ -108,9 +108,7 @@ cd quantum-thermodynamic-neuron
   [DOI: 10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
 * **QuTiP 2:** J. R. Johansson et al. *QuTiP 2: A Python framework for the dynamics of open quantum systems*. **Comput. Phys. Commun.** 184, 1234 (2013).  
   [DOI: 10.1016/j.cpc.2012.11.019](https://doi.org/10.1016/j.cpc.2012.11.019)
-    [DOI: 10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
-* **QuTiP 2:** J. R. Johansson et al. *QuTiP 2: A Python framework for the dynamics of open quantum systems*. **Comput. Phys. Commun.** 184, 1234 (2013).  
-    [DOI: 10.1016/j.cpc.2012.11.019](https://doi.org/10.1016/j.cpc.2012.11.019)
+
 
 
 
