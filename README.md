@@ -1,11 +1,4 @@
-Here is the completely reformatted Markdown content. I have stripped all leading indentation to ensure it does not render as a grey code block on GitHub. I also fixed several spacing issues where headers and bullet points were merged into previous lines in your draft.
 
-### Action:
-
-1. Click **"Copy code"** in the top right of the block below.
-2. Paste it directly into your `README.md` file.
-
-```markdown
 # Thermodynamic Perception on a 4-Qubit Transmon Lattice
 **A Research-Grade Open Quantum System Simulation**
 
@@ -147,4 +140,5 @@ python quantum_unified_revised_v23.py --mode lattice --bath_enable --q_tmax 12.0
 * **QuTiP:** J. R. Johansson et al. QuTiP: An open-source Python framework for the dynamics of open quantum systems. *Comput. Phys. Commun.* 183, 1760 (2012). DOI: [10.1016/j.cpc.2012.02.021](https://doi.org/10.1016/j.cpc.2012.02.021)
 
 ```
+
 
