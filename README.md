@@ -86,8 +86,9 @@ source .venv/bin/activate    # Windows: .venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-📚 References
-Thermodynamic Computing & Neurons
+
+
+## References for Thermodynamic Computing & Perceptron 
 
 Lipka-Bartosik, Perarnau-Llobet, Brunner. Thermodynamic computing via autonomous quantum thermal machines. Science Advances 10(36):eadm8792 (2024).
 
